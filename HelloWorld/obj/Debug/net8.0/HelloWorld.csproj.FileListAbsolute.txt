@@ -1,0 +1,14 @@
+/home/subash/Downloads/CSharp-Learning/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/subash/Downloads/CSharp-Learning/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/subash/Downloads/CSharp-Learning/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/subash/Downloads/CSharp-Learning/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/subash/Downloads/CSharp-Learning/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/subash/Downloads/CSharp-Learning/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
