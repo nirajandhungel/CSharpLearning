@@ -1,0 +1,14 @@
+# Ignore all bin and obj folders recursively
+**/bin/
+**/obj/
+
+# Optional but recommended:
+*.user
+*.suo
+.vs/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
