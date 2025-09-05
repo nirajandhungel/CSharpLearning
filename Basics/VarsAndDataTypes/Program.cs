@@ -36,6 +36,8 @@ namespace VarsAndDataTypes
             }
 
 
+
+
             var person = new Dictionary<string, string> // Dictionary
             {
                 { "Name", "Nirajan" },
@@ -48,7 +50,7 @@ namespace VarsAndDataTypes
                 Console.WriteLine($"{kvp.Key} : {kvp.Value}");
             }
 
-          // Linked List
+            // Linked List
             var linkedList = new LinkedList<int>();
             linkedList.AddLast(10);
             linkedList.AddLast(20);
@@ -59,5 +61,7 @@ namespace VarsAndDataTypes
                 Console.WriteLine(item);
             }
         }
+
+        
     }
 }
